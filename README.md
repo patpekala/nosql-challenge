@@ -13,12 +13,14 @@ UK Food Standards Agency(2022). [UK food hygiene rating data API] (https://ratin
 
 ## Analysis 
 Eat Safe, Love wanted to report on the restaurants with the high and low hygiene scores data. They can focus future articles on the following establishments in the London area:
+
 **High Hygene Scores **
 - Seaford Pizza
 - Golden Palace
 - South Sea Express Cuisine
 - The Tulip Tree
 - Longhouse
+
 **Low Hygene Scores** 
 - Howe and Co Fish and Chips - Van 17
 - Atlantic Fish Bar
